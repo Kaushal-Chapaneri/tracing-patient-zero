@@ -1,6 +1,23 @@
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://grandstack.io/deploy-starter-netlify) [![Deploy to Vercel](https://vercel.com/button)](https://grandstack.io/deploy-starter-vercel) [![Provision Neo4j](https://grandstack.io/img/provision-neo4j.png)](https://sandbox.neo4j.com/?usecase=blank-sandbox)
 
-# GRANDstack Starter
+# Tracing Patient Zero
+
+## Project setup
+
+- clone this repo
+- setup database (see data/README.md)
+- Install package [react-iframe](https://www.npmjs.com/package/react-iframe) and [react-graph-vis](https://www.npmjs.com/package/react-graph-vis)
+
+## Run project
+
+```
+- npm run start
+```
+
+note : double click on node in order to expand it in Tracing page.
+
+## Demo
+- Watch demo of this application on [YouTube](https://www.youtube.com/watch?v=7u2P4grcP8k).
 
 ```
 npx create-grandstack-app myNewApp
