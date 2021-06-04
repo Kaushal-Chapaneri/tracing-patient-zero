@@ -8,6 +8,8 @@ There are 3 ways you can setup database :
 2. Neo4j [Sandbox](https://sandbox.neo4j.com/) (cloud database will be available up to 10 days)
 3. Neo4j [Aura](https://neo4j.com/cloud/aura/) (database as a service)
 
+note: Make sure to update database credentials in api/.env file
+
 After that run this query in neo4j browser: 
 
 ```
