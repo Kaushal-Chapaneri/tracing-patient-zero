@@ -19,6 +19,7 @@ note : double click on node in order to expand it in Tracing page.
 ## Demo
 - Watch demo of this application on [YouTube](https://www.youtube.com/watch?v=7u2P4grcP8k).
 
+#GRANDSTACK
 ```
 npx create-grandstack-app myNewApp
 ```
