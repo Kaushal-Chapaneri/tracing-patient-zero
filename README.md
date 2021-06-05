@@ -4,14 +4,14 @@
 
 ## Project setup
 
-- clone this repo
 - setup database (see data/README.md)
+- update database credentials in api/.env file
 - Install package [react-iframe](https://www.npmjs.com/package/react-iframe) and [react-graph-vis](https://www.npmjs.com/package/react-graph-vis)
 
 ## Run project
 
 ```
-- npm run start
+npm run start
 ```
 
 note : double click on node in order to expand it in Tracing page.
@@ -19,7 +19,12 @@ note : double click on node in order to expand it in Tracing page.
 ## Demo
 - Watch demo of this application on [YouTube](https://www.youtube.com/watch?v=7u2P4grcP8k).
 
-# GRANDSTACK
+## Resources
+- William Lyon's [willow-grandstack](https://github.com/johnymontana/willow-grandstack) (Highly Recommended)
+- https://cambridge-intelligence.com/grand-stack-graph-visualization/
+- https://wilsonmar.github.io/neo4j/
+
+# GRANDstack
 ```
 npx create-grandstack-app myNewApp
 ```
